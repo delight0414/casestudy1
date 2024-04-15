@@ -197,22 +197,22 @@ body {
 	position: absolute;
 	left: -5%;
 	bottom: 0;
-	padding: 35px 48px 40px 0 ;
+	padding: 40px 0;
 	box-sizing: border-box;
-	width: 550px;
+	width: 530px;
 	background-color: #fff;
 }
 #slider .desc p.title  {
 	font-size: 55px;
 	font-weight: 700;
 	text-align: left;
+	width: max-content;
 }
 #slider .desc span.product {
 	display: block;
 	font-size: 16px;
 	font-weight: 500;
-	text-align: left;
-	width: 100%;
+	text-align: right;
 }
 #slider .desc p.subtitle  {
 	margin-top: 15px;

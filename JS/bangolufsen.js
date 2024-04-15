@@ -82,10 +82,10 @@ $(function(){
 
 	const mainSwiper=new Swiper(".mainSwiper", {
 		loop: true,
-		autoplay: {
-			delay: 5000,
-			disableOnInteraction: false
-		},
+		// autoplay: {
+		// 	delay: 5000,
+		// 	disableOnInteraction: false
+		// },
 		on :{ 
 			init: function(){
 				mainCurrent=this.realIndex+1;
