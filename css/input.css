@@ -1,0 +1,25 @@
+  /* @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+
+  .gnb_ul_oneDepth_li {
+    @apply relative;
+  }
+
+  .gnb_ul_oneDepth_li_a {
+    @apply relative block leading-18 px-14;
+  }
+
+  .gnb_ul_twoDepth {
+    @apply absolute flex items-center h-0 overflow-hidden left-5 z-1001;
+  }
+
+  .gnb_ul_twoDepth_li_a {
+    @apply block px-8 text-sm text-gray-500 leading-13 whitespace-nowrap;
+  }
+
+  li.on a {
+    border: 1px solid #b9b9b9;
+    color: #000;
+    font-weight: 500;
+  } */
